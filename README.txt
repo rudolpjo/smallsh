@@ -37,3 +37,6 @@ smallsh will exit on completion of grading script
 Note: For verbose execution of shell, remove the comment from
 //#define DEBUG
 in debug_printf.h and run make again
+
+To all current students:
+  Plagiarism of this will easily be detected.
